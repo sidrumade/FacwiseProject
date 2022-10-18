@@ -1,0 +1,13 @@
+*************************ProjectBoardBase******************************
+Board Id: 7
+Board Name: Backend Bug Board
+Team Id: 2
+******************************Tasks************************************
+Task id: 5
+Task title:  Pivot Issus
+Task description:  Backend pivot table issue
+Task Team_id:  2
+Task creation_time:  1665927180000
+Task status:  OPEN
+--------------------------------------------------------------------
+
